@@ -1,3 +1,4 @@
+<img width="404" alt="Screen Shot 2023-11-08 at 11 47 49 PM" src="https://github.com/koifissh/Data-Science-Project-HackARoo23/assets/112574689/945e314a-e5df-4706-a440-08be10e4eeac">
 # Life Expectancy Analysis via Water, Air, and Sanitation Quality Metrics
 Authors: Daniel Huynh, Jacob Pham, Johnny Diep, and Yagna Patel
 
