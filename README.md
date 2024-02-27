@@ -1,3 +1,6 @@
+
+![world_map](https://github.com/koifissh/Data-Project-HackARoo23/assets/112574689/b13fd7fb-9bd1-4ca2-8904-0cb0dcf33241)
+
 # Life Expectancy Analysis via Water, Air, and Sanitation Quality Metrics
 Authors: Daniel Huynh, Jacob Pham, Johnny Diep, and Yagna Patel
 
