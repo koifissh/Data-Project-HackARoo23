@@ -1,0 +1,397 @@
+United Republic of Tanzania
+Iceland
+Kuwait
+Monaco
+San Marino
+Singapore
+Democratic Republic of the Congo
+Ethiopia
+Kiribati
+Uganda
+Malawi
+Lao People's Democratic Republic
+Togo
+Nepal
+Madagascar
+Guinea-Bissau
+Senegal
+Lesotho
+Zimbabwe
+Nigeria
+Cambodia
+Afghanistan
+Indonesia
+Tonga
+Sao Tome and Principe
+Mongolia
+Ghana
+Fiji
+Côte d’Ivoire
+Mexico
+Dominican Republic
+Congo
+Gambia
+Philippines
+Pakistan
+Lebanon
+Sri Lanka
+Peru
+Tajikistan
+Nicaragua
+Guatemala
+Suriname
+Myanmar
+Viet Nam
+Bangladesh
+Iraq
+Chad
+Central African Republic
+Samoa
+Honduras
+Paraguay
+Bhutan
+Democratic People's Republic of Korea
+Ecuador
+Georgia
+Azerbaijan
+Albania
+Colombia
+Morocco
+Algeria
+Kyrgyzstan
+Republic of Moldova
+Tunisia
+Serbia
+Russian Federation
+Uzbekistan
+Occupied Palestinian territory
+Tuvalu
+The former Yugoslav Republic of Macedonia
+Costa Rica
+Romania
+Armenia
+Jordan
+Montenegro
+Brazil
+Palau
+Ukraine
+Bosnia and Herzegovina
+Kazakhstan
+Sierra Leone
+Oman
+Poland
+Andorra
+Belarus
+Italy
+Niue
+Malaysia
+Iran (Islamic Republic of)
+Turkmenistan
+Lithuania
+Portugal
+Ireland
+Bulgaria
+Latvia
+Qatar
+Switzerland
+Estonia
+United States of America
+Hungary
+Czechia
+Slovenia
+New Zealand
+Japan
+Chile
+Austria
+Bahrain
+Greece
+Norway
+Republic of Korea
+Canada
+Slovakia
+France
+Israel
+Luxembourg
+Spain
+Finland
+Belgium
+Sweden
+Cyprus
+Malta
+United Kingdom of Great Britain and Northern Ireland
+Germany
+Denmark
+Netherlands
+Mali
+Yemen
+Benin
+Libya
+Thailand
+Venezuela (Bolivarian Republic of)
+Kenya
+Somalia
+Djibouti
+Cuba
+India
+Guyana
+China
+Egypt
+South Africa
+Niger
+Türkiye
+Croatia
+Saudi Arabia
+Burkina Faso
+Australia
+United Arab Emirates
+Grenada
+Trinidad and Tobago
+Mauritius
+Belize
+Panama
+Namibia
+Argentina
+Botswana
+Maldives
+Comoros
+Jamaica
+Eswatini
+Mozambique
+Zambia
+Seychelles
+South Sudan
+Timor-Leste
+Sudan
+El Salvador
+Eritrea
+Syrian Arab Republic
+Bolivia (Plurinational State of)
+Equatorial Guinea
+Gabon
+Angola
+Burundi
+Cabo Verde
+Rwanda
+Liberia
+Guinea
+Mauritania
+Bahamas
+Cameroon
+Brunei Darussalam
+Marshall Islands
+Nauru
+Micronesia (Federated States of)
+Cook Islands
+Solomon Islands
+Saint Kitts and Nevis
+Dominica
+Antigua and Barbuda
+Vanuatu
+Uruguay
+Papua New Guinea
+Saint Lucia
+Saint Vincent and the Grenadines
+Haiti
+Barbados
+
+
+
+
+
+
+
+'United Republic of Tanzania': 'tz',
+'Iceland': 'is',
+'Kuwait': 'kw',
+'Monaco': 'mc',
+'San Marino': 'sm',
+'Singapore': 'sg',
+'Democratic Republic of the Congo': 'cd',
+'Ethiopia': 'et',
+'Kiribati': 'ki',
+'Uganda': 'ug',
+'Malawi': 'mw',
+'Lao People\'s Democratic Republic': 'la',
+'Togo': 'tg',
+'Nepal': 'np',
+'Madagascar': 'mg',
+'Guinea-Bissau': 'gw',
+'Senegal': 'sn',
+'Lesotho': 'ls',
+'Zimbabwe': 'zw',
+'Nigeria': 'ng',
+'Cambodia': 'kh',
+'Afghanistan': 'af',
+'Indonesia': 'id',
+'Tonga': 'to',
+'Sao Tome and Principe': 'st',
+'Mongolia': 'mn',
+'Ghana': 'gh',
+'Fiji': 'fj',
+'Côte d’Ivoire': 'ci',
+'Mexico': 'mx',
+'Dominican Republic': 'do',
+'Congo': 'cg',
+'Gambia': 'gm',
+'Philippines': 'ph',
+'Pakistan': 'pk',
+'Lebanon': 'lb',
+'Sri Lanka': 'lk',
+'Peru': 'pe',
+'Tajikistan': 'tj',
+'Nicaragua': 'ni',
+'Guatemala': 'gt',
+'Suriname': 'sr',
+'Myanmar': 'mm',
+'Viet Nam': 'vn',
+'Bangladesh': 'bd',
+'Iraq': 'iq',
+'Chad': 'td',
+'Central African Republic': 'cf',
+'Samoa': 'ws',
+'Honduras': 'hn',
+'Paraguay': 'py',
+'Bhutan': 'bt',
+'Democratic People\'s Republic of Korea': 'kp',
+'Ecuador': 'ec',
+'Georgia': 'ge',
+'Azerbaijan': 'az',
+'Albania': 'al',
+'Colombia': 'co',
+'Morocco': 'ma',
+'Algeria': 'dz',
+'Kyrgyzstan': 'kg',
+'Republic of Moldova': 'md',
+'Tunisia': 'tn',
+'Serbia': 'rs',
+'Russian Federation': 'ru',
+'Uzbekistan': 'uz',
+'Occupied Palestinian territory': 'ps',
+'Tuvalu': 'tv',
+'The former Yugoslav Republic of Macedonia': 'mk',
+'Costa Rica': 'cr',
+'Romania': 'ro',
+'Armenia': 'am',
+'Jordan': 'jo',
+'Montenegro': 'me',
+'Brazil': 'br',
+'Palau': 'pw',
+'Ukraine': 'ua',
+'Bosnia and Herzegovina': 'ba',
+'Kazakhstan': 'kz',
+'Sierra Leone': 'sl',
+'Oman': 'om',
+'Poland': 'pl',
+'Andorra': 'ad',
+'Belarus': 'by',
+'Italy': 'it',
+'Niue': 'nu',
+'Malaysia': 'my',
+'Iran (Islamic Republic of)': 'ir',
+'Turkmenistan': 'tm',
+'Lithuania': 'lt',
+'Portugal': 'pt',
+'Ireland': 'ie',
+'Bulgaria': 'bg',
+'Latvia': 'lv',
+'Qatar': 'qa',
+'Switzerland': 'ch',
+'Estonia': 'ee',
+'United States of America': 'us',
+'Hungary': 'hu',
+'Czechia': 'cz',
+'Slovenia': 'si',
+'New Zealand': 'nz',
+'Japan': 'jp',
+'Chile': 'cl',
+'Austria': 'at',
+'Bahrain': 'bh',
+'Greece': 'gr',
+'Norway': 'no',
+'Republic of Korea': 'kr',
+'Canada': 'ca',
+'Slovakia': 'sk',
+'France': 'fr',
+'Israel': 'il',
+'Luxembourg': 'lu',
+'Spain': 'es',
+'Finland': 'fi',
+'Belgium': 'be',
+'Sweden': 'se',
+'Cyprus': 'cy',
+'Malta': 'mt',
+'United Kingdom of Great Britain and Northern Ireland': 'gb',
+'Germany': 'de',
+'Denmark': 'dk',
+'Netherlands': 'nl',
+'Mali': 'ml',
+'Yemen': 'ye',
+'Benin': 'bj',
+'Libya': 'ly',
+'Thailand': 'th',
+'Venezuela (Bolivarian Republic of)': 've',
+'Kenya': 'ke',
+'Somalia': 'so',
+'Djibouti': 'dj',
+'Cuba': 'cu',
+'India': 'in',
+'Guyana': 'gy',
+'China': 'cn',
+'Egypt': 'eg',
+'South Africa': 'za',
+'Niger': 'ne',
+'Türkiye': 'tr',
+'Croatia': 'hr',
+'Saudi Arabia': 'sa',
+'Burkina Faso': 'bf',
+'Australia': 'au',
+'United Arab Emirates': 'ae',
+'Grenada': 'gd',
+'Trinidad and Tobago': 'tt',
+'Mauritius': 'mu',
+'Belize': 'bz',
+'Panama': 'pa',
+'Namibia': 'na',
+'Argentina': 'ar',
+'Botswana': 'bw',
+'Maldives': 'mv',
+'Comoros': 'km',
+'Jamaica': 'jm',
+'Eswatini': 'sz',
+'Mozambique': 'mz',
+'Zambia': 'zm',
+'Seychelles': 'sc',
+'South Sudan': 'ss',
+'Timor-Leste': 'tl',
+'Sudan': 'sd',
+'El Salvador': 'sv',
+'Eritrea': 'er',
+'Syrian Arab Republic': 'sy',
+'Bolivia (Plurinational State of)': 'bo',
+'Equatorial Guinea': 'gq',
+'Gabon': 'ga',
+'Angola': 'ao',
+'Burundi': 'bi',
+'Cabo Verde': 'cv',
+'Rwanda': 'rw',
+'Liberia': 'lr',
+'Guinea': 'gn',
+'Mauritania': 'mr',
+'Bahamas': 'bs',
+'Cameroon': 'cm',
+'Brunei Darussalam': 'bn',
+'Marshall Islands': 'mh',
+'Nauru': 'nr',
+'Micronesia (Federated States of)': 'fm',
+'Cook Islands': 'ck',
+'Solomon Islands': 'sb',
+'Saint Kitts and Nevis': 'kn',
+'Dominica': 'dm',
+'Antigua and Barbuda': 'ag',
+'Vanuatu': 'vu',
+'Uruguay': 'uy',
+'Papua New Guinea': 'pg',
+'Saint Lucia': 'lc',
+'Saint Vincent and the Grenadines': 'vc',
+'Haiti': 'ht',
+'Barbados': 'bb'
