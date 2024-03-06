@@ -26,7 +26,9 @@ To use this program, follow these steps:
 4. Follow the on-screen instructions and input the required information.
 5. The program will provide the estimated life expectancy or display the statistics for the chosen country.
 6. Additionally, the program produces a global map with countries that are color-coordinated with life expectancy.
-   
+   - Hovering over an individual country reveals an info tip popup on that specific country's calculated life expectancy.
+<p align="center"><img width="300" alt="Screenshot 2024-03-05 at 9 41 18 PM" src="https://github.com/koifissh/Data-Project-HackARoo23/assets/112574689/86fa81a0-aba8-41bc-8a78-174f69baed3e">
+
 ## Additional Details
 - The program reads data from the CSV files to extract important dates and values for each metric.
 - It calculates the weights of each metric using the provided data and numpy, running the algorithm to find the inverse of the matrix. 
